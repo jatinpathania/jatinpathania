@@ -5,14 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=jatinpathania&label=Profile%20views&color=0e75b6&style=flat" alt="jatinpathania" />
 </p>
 
-- 🌱 I’m currently learning **Next.js**, **Rust**, **Data Structures**, and **System Design**
-
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/jatinpathania?tab=repositories)
-
-- 📫 How to reach me: **jatinpathania1@gmail.com**
-
-- ⚡ Fun fact: I love solving logical puzzles and optimizing existing code just for fun :)
-
 ---
 
 ### 🛠️ Languages and Tools:
@@ -44,13 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinpathania&show_icons=true&theme=github_dark" alt="jatinpathania github stats"/>
 </p>
-
----
-
-### 📌 Featured Projects:
-- 🚀 **[College Cart](https://github.com/jatinpathania/College-Cart)** – A Fullstack local university marketplace to buy/sell/exchange items with real-time chat and product exchange feature.
-- 🛒 **[QuickCart](https://github.com/jatinpathania/QuickCart)** – A e-commerce site with product management.
-- 🌦️ **[Tempora Cast](https://github.com/jatinpathania/Weather-App)** – A weather app for real-time weather information.
 
 ---
 
