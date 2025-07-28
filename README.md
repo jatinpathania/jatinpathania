@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jatin Pathania</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Fullstack developer and Programmer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jatinpathania&label=Profile%20views&color=0e75b6&style=flat" alt="jatinpathania" />
 </p>
 
-- 🔭 I’m currently working on **Campus Cart**, **FitBytes**, and **HateNix**
-
-- 🌱 I’m currently learning **React.js**, **Tailwind CSS**, **Data Structures**, and **System Design**
+- 🌱 I’m currently learning **Next.js**, **Rust**, **Data Structures**, and **System Design**
 
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/jatinpathania?tab=repositories)
 
-- 📝 I regularly write notes and explanations on topics I explore in code
-
-- 📫 How to reach me: **jatinpathania.dev@gmail.com**
+- 📫 How to reach me: **jatinpathania1@gmail.com**
 
 - ⚡ Fun fact: I love solving logical puzzles and optimizing existing code just for fun :)
 
@@ -41,13 +37,13 @@
 ---
 
 ### 📌 Featured Projects:
-- 🚀 **[College Cart](https://github.com/jatinpathania/collegeCart)** – A local university marketplace to buy/sell/exchange items.
-- 🍽️ **[FitBytes](https://github.com/jatinpathania/fitbytes)** – A restaurant website focused on healthy meals.
+- 🚀 **[College Cart](https://github.com/jatinpathania/College-Cart)** – A local university marketplace to buy/sell/exchange items.
+- 🍽️ **[Tempora Cast](https://github.com/jatinpathania/Weather-App)** – A weather app for real time Weather info.
 
 ---
 
 ### 🌐 Let's Connect:
 <p align="left">
-  <a href="https://linkedin.com/in/jatinpathania" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="jatinpathania"/></a>
-  <a href="mailto:jatinpathania.dev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="www.linkedin.com/in/jatin-pathania-944617303" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="jatinpathania"/></a>
+  <a href="mailto:jatinpathania1@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
