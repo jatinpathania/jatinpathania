@@ -1,3 +1,4 @@
+<img src="https://yourhost.com/matrix-rain.gif" alt="Matrix Rain" width="100%" />
 <h1 align="center">Hi 👋, I'm Jatin Pathania</h1>
 <h3 align="center">A Fullstack Developer and Programmer from India</h3>
 
