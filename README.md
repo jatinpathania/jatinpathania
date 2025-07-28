@@ -1,4 +1,7 @@
-<img src="https://yourhost.com/matrix-rain.gif" alt="Matrix Rain" width="100%" />
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM3bjR1ODE1Z2xobHJrczBqbmJiNDFjNHRleGlkMHJ0cWp3andkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" alt="Matrix Rain" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Jatin Pathania</h1>
 <h3 align="center">A Fullstack Developer and Programmer from India</h3>
 
