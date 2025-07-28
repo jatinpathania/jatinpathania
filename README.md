@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTM3bjR1ODE1Z2xobHJrczBqbmJiNDFjNHRleGlkMHJ0cWp3andkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" alt="Matrix Rain" width="100%" />
-</div>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Jatin Pathania</h1>
 <h3 align="center">A Fullstack Developer and Programmer from India</h3>
