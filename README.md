@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" />
+<a href="https://github.com/JatinPathania">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Banner" width="100%" />
+</a>
+
 
 <h1 align="center">Hi 👋, I'm Jatin Pathania</h1>
 <h3 align="center">A Fullstack Developer and Programmer from India</h3>
