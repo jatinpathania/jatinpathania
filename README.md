@@ -40,8 +40,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JatinPathania&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" alt="JatinPathania github stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JatinPathania&show_icons=true&theme=github_dark" alt="JatinPathania github stats"/>
 </p>
+
 
 ---
 
