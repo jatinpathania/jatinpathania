@@ -39,9 +39,22 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JatinPathania&show_icons=true&theme=github_dark" alt="JatinPathania github stats"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jatinpathania&theme=github_dark" alt="GitHub Stats"/>
 </p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jatinpathania&theme=github_dark" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=jatinpathania&theme=github-dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
 
 
 ---
